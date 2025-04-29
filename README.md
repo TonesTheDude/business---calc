@@ -1,3 +1,6 @@
+https://business-calc.onrender.com/
+
+
 # 🏗️ Deploy a Static App to Render
 
 Work with a partner to implement the following user story:
